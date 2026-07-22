@@ -1,0 +1,2 @@
+change_id,owner,start_utc,end_utc,source_ip,purpose
+CHG-SCAN-V1,Vulnerability Management,2026-06-06T00:00:00Z,2026-06-06T02:00:00Z,10.41.10.9,Approved quarterly authenticated scan
