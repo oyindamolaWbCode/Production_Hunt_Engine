@@ -1,0 +1,10 @@
+{
+    "pipeline_metrics": {
+        "total_raw": 750000,
+        "accepted": 0,
+        "duplicates": 0,
+        "quarantined": 750000
+    },
+    "peak_memory_mb": 0.2,
+    "execution_time_sec": 57.48
+}
